@@ -129,7 +129,7 @@ def adding_to_dennis
         }
      }
   i = programmer_hash[:dennis_ritchie]
-  ii = i[:languages.pop]
+  dictionary['cat'] = "fluffy animal"
   
   programmer_hash
 end
