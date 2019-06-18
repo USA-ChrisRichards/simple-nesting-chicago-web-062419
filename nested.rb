@@ -110,7 +110,7 @@ def changing_alan
      alan = programmer_hash[:alan_kay]
      new_alan = alan[:known_for]
      new_alan = alans_new_info
-     
+     print ne
 end
 
 def adding_to_dennis
