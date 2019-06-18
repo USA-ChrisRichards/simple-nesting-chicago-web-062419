@@ -133,5 +133,6 @@ def adding_to_dennis
   langs = i[:languages]
   langs.clear
   langs << "Assembly"
+  print langs
   programmer_hash
 end
