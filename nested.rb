@@ -109,7 +109,7 @@ def changing_alan
      alans_new_info = "GUI"
      alan = programmer_hash[:alan_kay]
      dictionary[:known_for] = "GUI"
-
+    :known_for
 end
 
 def adding_to_dennis
