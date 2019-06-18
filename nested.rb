@@ -129,7 +129,7 @@ def adding_to_dennis
         }
      }
   i = programmer_hash[:dennis_ritchie]
-  ii = i[:languages]
-  puts ii
+  i[:languages]
+  
   programmer_hash
 end
