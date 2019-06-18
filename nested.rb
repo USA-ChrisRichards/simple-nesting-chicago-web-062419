@@ -128,8 +128,9 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-  i = programmer_hash[:dennis_ritchie]
-  dictionary['cat'] = "fluffy animal"
-  
+  i = programmer_hash[:dennis_ritchie] 
+  #{:known_for => "Unix", #:languages => ["C"] }
+  langs = i[:languages]
+  print langs  
   programmer_hash
 end
