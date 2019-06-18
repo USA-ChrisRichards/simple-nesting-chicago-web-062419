@@ -109,8 +109,8 @@ def changing_alan
      alans_new_info = "GUI"
      alan = programmer_hash[:alan_kay]
      new_alan = alan[:known_for]
-     new_alan = alans_new_info
-     print ne
+     final_alan = alans_new_info
+     print final_alan
 end
 
 def adding_to_dennis
