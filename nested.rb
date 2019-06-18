@@ -132,6 +132,5 @@ def adding_to_dennis
   #{:known_for => "Unix", #:languages => ["C"] }
   langs = i[:languages]
   langs << "Assembly"
-  print langs
   programmer_hash
 end
