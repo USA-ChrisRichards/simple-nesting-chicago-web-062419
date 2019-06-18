@@ -108,8 +108,8 @@ def changing_alan
      #change what Alan Kay is :known_for to the value of the alans_new_info variable. 
      alans_new_info = "GUI"
      alan = programmer_hash[:alan_kay]
-     alan_new = alan["GUI"]
-     print alan_new
+     alan[:known_for] = alans_new_info
+     
      
 end
 
