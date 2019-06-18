@@ -109,7 +109,8 @@ def changing_alan
      alans_new_info = "GUI"
      alan = programmer_hash[:alan_kay]
      new_alan = alan[:known_for]
-     print new_alan
+     dictionary['cat'] = "fluffy animal"
+
 end
 
 def adding_to_dennis
